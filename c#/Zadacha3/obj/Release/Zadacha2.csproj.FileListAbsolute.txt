@@ -1,0 +1,13 @@
+C:\Users\Nikola\documents\visual studio 2015\Projects\Zadachi\Zadacha2\bin\Release\Zadacha2.exe.config
+C:\Users\Nikola\documents\visual studio 2015\Projects\Zadachi\Zadacha2\bin\Release\json\all_packages.json
+C:\Users\Nikola\documents\visual studio 2015\Projects\Zadachi\Zadacha2\bin\Release\json\dependencies.json
+C:\Users\Nikola\documents\visual studio 2015\Projects\Zadachi\Zadacha2\bin\Release\Zadacha2.exe.manifest
+C:\Users\Nikola\documents\visual studio 2015\Projects\Zadachi\Zadacha2\bin\Release\Zadacha2.application
+C:\Users\Nikola\documents\visual studio 2015\Projects\Zadachi\Zadacha2\bin\Release\Zadacha2.exe
+C:\Users\Nikola\documents\visual studio 2015\Projects\Zadachi\Zadacha2\bin\Release\Zadacha2.pdb
+C:\Users\Nikola\documents\visual studio 2015\Projects\Zadachi\Zadacha2\bin\Release\Newtonsoft.Json.dll
+C:\Users\Nikola\documents\visual studio 2015\Projects\Zadachi\Zadacha2\bin\Release\Newtonsoft.Json.xml
+C:\Users\Nikola\documents\visual studio 2015\Projects\Zadachi\Zadacha2\obj\Release\Zadacha2.exe.manifest
+C:\Users\Nikola\documents\visual studio 2015\Projects\Zadachi\Zadacha2\obj\Release\Zadacha2.application
+C:\Users\Nikola\documents\visual studio 2015\Projects\Zadachi\Zadacha2\obj\Release\Zadacha2.exe
+C:\Users\Nikola\documents\visual studio 2015\Projects\Zadachi\Zadacha2\obj\Release\Zadacha2.pdb

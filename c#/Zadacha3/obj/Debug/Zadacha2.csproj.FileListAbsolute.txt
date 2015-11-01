@@ -1,0 +1,14 @@
+C:\Users\Nikola\documents\visual studio 2015\Projects\Zadachi\Zadacha2\bin\Debug\Zadacha2.exe.config
+C:\Users\Nikola\documents\visual studio 2015\Projects\Zadachi\Zadacha2\bin\Debug\Zadacha2.exe
+C:\Users\Nikola\documents\visual studio 2015\Projects\Zadachi\Zadacha2\bin\Debug\Zadacha2.pdb
+C:\Users\Nikola\documents\visual studio 2015\Projects\Zadachi\Zadacha2\obj\Debug\Zadacha2.exe
+C:\Users\Nikola\documents\visual studio 2015\Projects\Zadachi\Zadacha2\obj\Debug\Zadacha2.pdb
+C:\Users\Nikola\documents\visual studio 2015\Projects\Zadachi\Zadacha2\bin\Debug\json\all_packages.json
+C:\Users\Nikola\documents\visual studio 2015\Projects\Zadachi\Zadacha2\bin\Debug\json\dependencies.json
+C:\Users\Nikola\documents\visual studio 2015\Projects\Zadachi\Zadacha2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nikola\documents\visual studio 2015\Projects\Zadachi\Zadacha2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nikola\documents\visual studio 2015\Projects\Zadachi\Zadacha2\obj\Debug\Zadacha2.csprojResolveAssemblyReference.cache
+C:\Users\Nikola\documents\visual studio 2015\Projects\Zadachi\Zadacha2\bin\Debug\Zadacha2.exe.manifest
+C:\Users\Nikola\documents\visual studio 2015\Projects\Zadachi\Zadacha2\bin\Debug\Zadacha2.application
+C:\Users\Nikola\documents\visual studio 2015\Projects\Zadachi\Zadacha2\obj\Debug\Zadacha2.exe.manifest
+C:\Users\Nikola\documents\visual studio 2015\Projects\Zadachi\Zadacha2\obj\Debug\Zadacha2.application

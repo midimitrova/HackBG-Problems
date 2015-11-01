@@ -1,0 +1,4 @@
+﻿{
+  "projectName": "Zadacha2",
+  "dependencies": ["backbone"]
+}
